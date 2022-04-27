@@ -4,6 +4,7 @@ Checkout my portfolio! All the information about me right at your fingertips! Ju
 
 ## Link to Deployed Application
 
+Click [here](https://rochelleyounger.github.io/Rochelle-Younger/) to view my portfolio!
 
 ## License
   
