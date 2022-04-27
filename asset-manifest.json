@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rochelle-Younger/static/css/main.c52feaba.css",
+    "main.js": "/Rochelle-Younger/static/js/main.fb7258cf.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Rochelle-Younger/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cover-image.jpg": "/Rochelle-Younger/static/media/cover-image.1e037e4a3dfe3531200b.jpg",
+    "index.html": "/Rochelle-Younger/index.html",
+    "main.c52feaba.css.map": "/Rochelle-Younger/static/css/main.c52feaba.css.map",
+    "main.fb7258cf.js.map": "/Rochelle-Younger/static/js/main.fb7258cf.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Rochelle-Younger/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52feaba.css",
+    "static/js/main.fb7258cf.js"
+  ]
+}
