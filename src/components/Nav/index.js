@@ -15,16 +15,18 @@ function Nav() {
         <ul className='flex-row'>
           <li className='mx-2'>
             <a data-testid='about' href='#about' onClick={() => handleClick('About')}>
-              About me
+              Bio
             </a>
           </li>
           <li className='mx-2'>
-            <span onClick={() => handleClick('Contact')}>Contact</span>
+            <a data-testid='projects' href='#projects' onClick={() => handleClick('projects')}>
+              Projects
+            </a>
           </li>
           <li className='mx-2'>
-            <span
-            key='projects'
-            onClick={() => handleClick('Projects')} >Projects</span>
+            <a data-testid='contact' href='#contact' onClick={() => handleClick('contact')}>
+              Contact
+            </a>
           </li>
         </ul>
       </nav>
