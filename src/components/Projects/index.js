@@ -21,7 +21,7 @@ function Projects() {
             <a href="https://fathomless-thicket-11670.herokuapp.com/">Dev-Den</a>
           </li>
           <li>
-            <a href="">Coming Soon</a>
+            <a href="https://github.com/RochelleYounger/Motiv8">Motiv8 Repo</a>
           </li>
         </ul>
       </div>
